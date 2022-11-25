@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a test from local repo.
+
 <!--
 **cmpi66/cmpi66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
