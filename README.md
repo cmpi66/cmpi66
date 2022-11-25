@@ -12,16 +12,17 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-## 🤳Connect with me:
+## 🤳 Connect with me:
 
 [<img align="left" alt="chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="chris | website" width="22px" src=":computer:" />][website]
 
 <!-- [twitter]: https://twitter.com/Josh -->
 <!-- [instagram]: https://www.instagram.com/Josh -->
 [linkedin]: https://linkedin.com/in/Josh
-
+[website]: https://munozpi.com
 
 
 
