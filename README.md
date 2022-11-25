@@ -17,7 +17,7 @@
 [<img align="left" alt="chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-[<img align="left" alt="chris | website" width="22px" src=":computer:" />][website]
+[<img align="left" alt="chris | website" width="22px" src="https://www.flaticon.com/free-icon/internet_2721688?term=website&related_id=2721688" />][website]
 
 <!-- [twitter]: https://twitter.com/Josh -->
 <!-- [instagram]: https://www.instagram.com/Josh -->
