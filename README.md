@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/cmpi66/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cmpi66/ticket-lifecycle)
 - **Microsoft Azure**
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cmpi66/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/cmpi66/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cmpi66/azure-network-protocols)
 
 ## 🤳 Connect with me:
@@ -25,7 +25,7 @@
 <!-- [website]: https://munozpi.com -->
 
 - [Linkedin](https://linkedin.com) 
-- My [website](https://munozpi.com) where I go into more depth on the projects I've completed and tips and tricks for Linux,  raspberry pi, Neovim and more.
+- My [website](https://munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
 
 
 <!--
