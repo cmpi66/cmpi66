@@ -11,6 +11,8 @@
 - **Microsoft Azure**
   - [Configuring Active Directory within Azure VMs](https://github.com/cmpi66/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cmpi66/azure-network-protocols)
+- **Tech Website I built with Hugo**
+  - [Hugo site deployed with netlify](https://github.com/cmpi66/netlify)
 
 ## 🤳 Connect with me:
 
