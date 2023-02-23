@@ -13,6 +13,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cmpi66/azure-network-protocols)
 - **Tech Website I built with Hugo**
   - [Hugo site deployed with netlify](https://github.com/cmpi66/netlify)
+- **Ansible Arch**
+  - [Automated and custom Linux developer laptop in 30 minutes or less](https://github.com/cmpi66/ansible-bootstrap)
 
 ## 🤳 Connect with me:
 
