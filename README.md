@@ -1,5 +1,5 @@
 
-# Hi, I'm Chris, an [IT Professional](https://linkedin.com)
+# Hi, I'm Chris, an [IT Professional](https://www.linkedin.com/in/chris-munoz-88052b207)
 
 ## 👨‍💻 Information Technology Projects:
 
@@ -28,7 +28,7 @@
 <!-- [linkedin]: https://linkedin.com/in/Josh -->
 <!-- [website]: https://munozpi.com -->
 
-- [Linkedin](https://linkedin.com) 
+- [Linkedin](https://www.linkedin.com/in/chris-munoz-88052b207/) 
 - My [website](https://munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
 
 
