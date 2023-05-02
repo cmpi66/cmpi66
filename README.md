@@ -11,8 +11,9 @@
 - **Microsoft Azure**
   - [Configuring Active Directory within Azure VMs](https://github.com/cmpi66/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cmpi66/azure-network-protocols)
-- **Tech Website I built with Hugo**
-  - [Hugo site deployed with netlify](https://github.com/cmpi66/netlify)
+- **Websites built with Hugo**
+  - [simple portfolio/CV site deployed with netlify](https://github.com/cmpi66/portfolio)
+  - [Tech blog on Linux, security and more, deployed with netlify](https://github.com/cmpi66/netlify)
 - **Ansible Arch**
   - [Automated and custom Linux developer laptop in 40 minutes](https://github.com/cmpi66/ansible-bootstrap)
 
@@ -29,7 +30,8 @@
 <!-- [website]: https://munozpi.com -->
 
 - [Linkedin](https://www.linkedin.com/in/chris-munoz-88052b207/) 
-- My [website](https://munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
+- My [portfolio website](https://munozpi.com) just a simple site for my CV. 
+- My [tech blog ](https:notes.//munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
 
 
 <!--
