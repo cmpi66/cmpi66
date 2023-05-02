@@ -31,7 +31,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/chris-munoz-88052b207/) 
 - My [portfolio website](https://munozpi.com) just a simple site for my CV. 
-- My [tech blog ](https:notes.//munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
+- My [tech blog](https://notes.munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
 
 
 <!--
