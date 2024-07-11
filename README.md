@@ -16,6 +16,11 @@
   - [Tech blog on Linux, security and more, deployed with netlify](https://github.com/cmpi66/netlify)
 - **Ansible Arch**
   - [Automated and custom Linux developer laptop in 40 minutes](https://github.com/cmpi66/ansible-bootstrap)
+- **Security**
+  - [Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)
+  - [Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)
+  <!-- - [air gapped GPG yubikey]() -->
+  - [Gentoo Linux UEFI GPG Yubikey Encrypted Root](https://github.com/cmpi66/gentoo-gpg-encrypted-guide)
 
 ## 🤳 Connect with me:
 
