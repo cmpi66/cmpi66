@@ -3,7 +3,12 @@
 
 ## 👨‍💻 Information Technology Projects:
 
-
+- **Cybersecurity**
+  - [Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)
+  - [Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)
+  - [Gentoo Linux UEFI GPG Yubikey Encrypted Root](https://github.com/cmpi66/gentoo-gpg-encrypted-guide)
+- **Ansible Arch**
+  - [Automated and custom Linux developer laptop in 40 minutes](https://github.com/cmpi66/ansible-bootstrap)
 - **osTicket (Help Desk Ticketing System)**
   - [osTicket: Prerequisites and Installation](https://github.com/cmpi66/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cmpi66/post-install-config)
@@ -14,13 +19,6 @@
 - **Websites built with Hugo**
   - [simple portfolio/CV site deployed with netlify](https://github.com/cmpi66/portfolio)
   - [Tech blog on Linux, security and more, deployed with netlify](https://github.com/cmpi66/netlify)
-- **Ansible Arch**
-  - [Automated and custom Linux developer laptop in 40 minutes](https://github.com/cmpi66/ansible-bootstrap)
-- **Security**
-  - [Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)
-  - [Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)
-  <!-- - [air gapped GPG yubikey]() -->
-  - [Gentoo Linux UEFI GPG Yubikey Encrypted Root](https://github.com/cmpi66/gentoo-gpg-encrypted-guide)
 
 ## 🤳 Connect with me:
 
