@@ -1,7 +1,7 @@
 
 # Hi, I'm [Chris](https://www.linkedin.com/in/chris-munoz-88052b207), an IT and Cybersecurity Professional
 
-## Passionate about security and IT, I'm always up-skilling and looking for ways to incorporate my new skills into projects. Below you'll see various projects based on relevant in-demand skills and my interests. You'll also see a steady progression in the complexity of the projects. There are basic IT projects right when I was breaking into the field and was still working on my CCNA, to more robust security projects that incorporate a live environment that'll simulate a real org.
+Passionate about security and IT, I'm always up-skilling and looking for ways to incorporate my new skills into projects. Below you'll see various projects based on relevant in-demand skills and my interests. You'll also see a steady progression in the complexity of the projects. There are basic IT projects right when I was breaking into the field and was still working on my CCNA, to more robust security projects that incorporate a live environment that'll simulate a real org.
 
 ## SOC/Incident Response
 
