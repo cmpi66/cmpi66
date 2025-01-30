@@ -7,6 +7,10 @@ Passionate about security and IT, I'm always up-skilling and looking for ways to
 
   - **[Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)**
 
+## vulnerability Management
+
+  - **[Azure and Tenable vulnerability Management Program](https://github.com/cmpi66/vuln-management-program-tenable)**
+
 ## Device Encryption, Linux and Yubikeys
 
   - **[Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)**
