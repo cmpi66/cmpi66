@@ -1,5 +1,5 @@
 
-# Hi, I'm Chris, an [IT Professional](https://www.linkedin.com/in/chris-munoz-88052b207)
+# Hi, I'm [Chris](https://www.linkedin.com/in/chris-munoz-88052b207), an IT and Cybersecurity Professional
 
 ## 👨‍💻 Information Technology Projects:
 
@@ -27,10 +27,6 @@
 <!-- [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 <!-- [<img align="left" alt="Chris | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][website] -->
 
-<!-- [twitter]: https://twitter.com/Josh -->
-<!-- [instagram]: https://www.instagram.com/Josh -->
-<!-- [linkedin]: https://linkedin.com/in/Josh -->
-<!-- [website]: https://munozpi.com -->
 
 - [Linkedin](https://www.linkedin.com/in/chris-munoz-88052b207/) 
 - My [portfolio website](https://munozpi.com) just a simple site for my CV. 
