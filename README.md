@@ -4,7 +4,7 @@
 ## 👨‍💻 Information Technology Projects:
 
 - **Cybersecurity**
-  - [Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)
+  - **[Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)**
   - [Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)
   - [Gentoo Linux UEFI GPG Yubikey Encrypted Root](https://github.com/cmpi66/gentoo-gpg-encrypted-guide)
 - **Ansible Arch**
