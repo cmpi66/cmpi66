@@ -11,6 +11,10 @@ Passionate about security and IT, I'm always up-skilling and looking for ways to
 
   - **[Azure and Tenable Vulnerability Management Program](https://github.com/cmpi66/vuln-management-program-tenable)**
 
+## Threat Hunting
+
+  - **[Threat hunting Tor Usage](https://github.com/cmpi66/threat-hunting-tor)**
+
 ## Device Encryption, Linux and Yubikeys
 
   - **[Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)**
