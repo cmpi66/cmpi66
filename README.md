@@ -10,7 +10,7 @@ Passionate about security and IT, I'm always up-skilling and looking for ways to
 ## Vulnerability Management
 
   - **[Azure and Tenable Vulnerability Management Program](https://github.com/cmpi66/vuln-management-program-tenable)**
-  - **[20 Plus Programatic Stig Remediations (powershell)](https://github.com/cmpi66/windows-stig-remediations)**
+  - **[20 Plus Programatic Windows 10 Stig Remediations (powershell)](https://github.com/cmpi66/windows-stig-remediations)**
 
 ## Threat Hunting
 
