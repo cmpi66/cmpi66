@@ -1,7 +1,9 @@
 
 # Hi, I'm [Chris](https://www.linkedin.com/in/chris-munoz-88052b207), an IT and Cybersecurity Professional
 
-Passionate about security and IT, I'm always up-skilling and looking for ways to incorporate my new skills into projects. Below you'll see various projects based on relevant in-demand skills and my interests. You'll also see a steady progression in the complexity of the projects. There are basic IT projects right when I was breaking into the field and was still working on my CCNA, to more robust security projects that incorporate a live environment that'll simulate a real org.
+Security-focused practitioner with a background in IT infrastructure, Linux hardening, and detection engineering. This GitHub documents hands-on security projects, many of which started from trusted guides or community tutorials — then evolved through real implementation, testing, and debugging. Everything here reflects working systems I've built, broken, and refined in my own environment.
+
+Tools include: YubiKey (OpenPGP/SSH), Dracut, Ansible, rclone, and Microsoft Sentinel.
 
 ## SOC/Incident Response
 
@@ -25,18 +27,9 @@ Passionate about security and IT, I'm always up-skilling and looking for ways to
 ## Ansible Arch
   - **[Automated and custom Linux developer laptop in 40 minutes](https://github.com/cmpi66/ansible-bootstrap)**
 
-## IT Help Desk Ticket System
-  - **[osTicket: Prerequisites and Installation](https://github.com/cmpi66/osticket-prereqs)**
-  - **[osTicket: Post-Installation Configuration](https://github.com/cmpi66/post-install-config)**
-  - **[osTicket: Ticket Lifecycle Examples](https://github.com/cmpi66/ticket-lifecycle)**
-
-## Azure Basics
-  - **[Configuring Active Directory within Azure VMs](https://github.com/cmpi66/configure-ad)**
-  - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cmpi66/azure-network-protocols)**
-
-## Websites built with Hugo
-  - **[simple portfolio/CV site deployed with netlify](https://github.com/cmpi66/portfolio)**
-  - **[Tech blog on Linux, security and more, deployed with netlify](https://github.com/cmpi66/netlify)**
+<!-- ## Websites built with Hugo -->
+<!--   - **[simple portfolio/CV site deployed with netlify](https://github.com/cmpi66/portfolio)** -->
+<!--   - **[Tech blog on Linux, security and more, deployed with netlify](https://github.com/cmpi66/netlify)** -->
 
 ## 🤳 Connect with me:
 
