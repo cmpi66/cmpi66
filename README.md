@@ -1,59 +1,42 @@
 
 # Hi, I'm [Chris](https://www.linkedin.com/in/chris-munoz-88052b207), an IT and Cybersecurity Professional
 
+## 🛡️ Security Projects & Environment
+
 Security-focused practitioner with a background in IT infrastructure, Linux hardening, and detection engineering. This GitHub documents hands-on security projects, many of which started from trusted guides or community tutorials — then evolved through real implementation, testing, and debugging. Everything here reflects working systems I've built, broken, and refined in my own environment.
 
-Tools include: YubiKey (OpenPGP/SSH), Dracut, Ansible, rclone, and Microsoft Sentinel.
 
-## SOC/Incident Response
+---
 
-  - **[Azure SOC Honeynet Incident Response](https://github.com/cmpi66/soc-azure-honeynet)**
-  - **[Cloud Backup Incident Response](https://github.com/cmpi66/idrive-storage-IR)**
+## 🚀 Tech Stack with Project Proof
 
-## Vulnerability Management
+> Here's the stack I've deployed, scripted, or tuned in real-world scenarios — each one mapped to a working project.
 
-  - **[Azure and Tenable Vulnerability Management Program](https://github.com/cmpi66/vuln-management-program-tenable)**
-  - **[20 Plus Programatic Windows 10 Stig Remediations (powershell)](https://github.com/cmpi66/windows-stig-remediations)**
+| 🛠️ Technology / Skill | 🌐 Projects |
+|------------------------|-------------|
+| ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-5E5E5E?logo=microsoft&logoColor=white&style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor), [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet) |
+| ![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-0078D4?logo=microsoft&logoColor=white&style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor) |
+| ![KQL](https://img.shields.io/badge/-KQL-2D2D2D?style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor) |
+| ![Tenable](https://img.shields.io/badge/-Tenable.io/Nessus-2D2D2D?style=flat-square) | [Vuln Management Program](https://github.com/cmpi66/vuln-management-program-tenable) |
+| ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square) | [Windows STIG Remediation](https://github.com/cmpi66/windows-stig-remediations) |
+| ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square) | [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap) |
+| ![YubiKey](https://img.shields.io/badge/-YubiKey-FFC20E?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide), [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap) |
+| ![LUKS](https://img.shields.io/badge/-LUKS-5E5E5E?style=flat-square) | [Artix Encrypted Disk](https://github.com/cmpi66/artix-full-disk-encrypted-uefi), [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
+| ![Dracut](https://img.shields.io/badge/-Dracut-007ACC?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
+| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square) | [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap), [Windows STIG Remediation](https://github.com/cmpi66/windows-stig-remediations) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap) |
+| ![rclone](https://img.shields.io/badge/-rclone-5E5E5E?style=flat-square) | [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
+| ![Syncthing](https://img.shields.io/badge/-Syncthing-2D2D2D?style=flat-square) | [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
+| ![GPG](https://img.shields.io/badge/-GPG-005EA2?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
+| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | [All Project Repos](https://github.com/cmpi66) |
+| ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet), [Vuln Management Program](https://github.com/cmpi66/vuln-management-program-tenable) |
+| ![Incident Response](https://img.shields.io/badge/-Incident%20Response-5E5E5E?style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet), [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
+| ![NIST 800-53](https://img.shields.io/badge/-NIST%20800--53-2E8B57?style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet) |
 
-## Threat Hunting
+---
 
-  - **[Threat hunting Tor Usage](https://github.com/cmpi66/threat-hunting-tor)**
+## 🤳 Connect with Me
 
-## Device Encryption, Linux and Yubikeys
-
-  - **[Artix Full disk encryption with BTRFS snapshots](https://github.com/cmpi66/artix-full-disk-encrypted-uefi)**
-  - **[Gentoo Linux UEFI GPG Yubikey Encrypted Root](https://github.com/cmpi66/gentoo-gpg-encrypted-guide)**
-
-## Ansible Arch
-  - **[Automated and custom Linux developer laptop in 40 minutes](https://github.com/cmpi66/ansible-bootstrap)**
-
-<!-- ## Websites built with Hugo -->
-<!--   - **[simple portfolio/CV site deployed with netlify](https://github.com/cmpi66/portfolio)** -->
-<!--   - **[Tech blog on Linux, security and more, deployed with netlify](https://github.com/cmpi66/netlify)** -->
-
-## 🤳 Connect with me:
-
-<!-- [<img align="left" alt="chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-<!-- [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<!-- [<img align="left" alt="Chris | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][website] -->
-
-
-- [Linkedin](https://www.linkedin.com/in/chris-munoz-88052b207/) 
-- My [portfolio website](https://munozpi.com) just a simple site for my CV. 
-- My [tech blog](https://notes.munozpi.com) where I go into more depth on the projects I've completed, tips and tricks for Linux, raspberry pi, Neovim and more.
-
-
-<!--
-**cmpi66/cmpi66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/chris-munoz-88052b207/)
+<!-- - [Portfolio Website](https://munozpi.com) -->
+<!-- - [Tech Blog](https://notes.munozpi.com) -->
