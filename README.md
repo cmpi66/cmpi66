@@ -15,7 +15,7 @@ Security-focused practitioner with a background in IT infrastructure, Linux hard
 | 🛠️ Technology / Skill | 🌐 Projects |
 |------------------------|-------------|
 | ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-5E5E5E?logo=microsoft&logoColor=white&style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor), [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet) |
-| ![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-0078D4?logo=microsoft&logoColor=white&style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor) |
+| ![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Defender%20for%20Endpoint-0078D4?logo=microsoft&logoColor=white&style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor) |
 | ![KQL](https://img.shields.io/badge/-KQL-2D2D2D?style=flat-square) | [Tor Threat Hunt](https://github.com/cmpi66/threat-hunting-tor) |
 | ![Tenable](https://img.shields.io/badge/-Tenable.io/Nessus-2D2D2D?style=flat-square) | [Vuln Management Program](https://github.com/cmpi66/vuln-management-program-tenable) |
 | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square) | [Windows STIG Remediation](https://github.com/cmpi66/windows-stig-remediations) |
@@ -23,10 +23,10 @@ Security-focused practitioner with a background in IT infrastructure, Linux hard
 | ![YubiKey](https://img.shields.io/badge/-YubiKey-FFC20E?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide), [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap) |
 | ![LUKS](https://img.shields.io/badge/-LUKS-5E5E5E?style=flat-square) | [Artix Encrypted Disk](https://github.com/cmpi66/artix-full-disk-encrypted-uefi), [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
 | ![Dracut](https://img.shields.io/badge/-Dracut-007ACC?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square) | [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap), [Windows STIG Remediation](https://github.com/cmpi66/windows-stig-remediations) |
+| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide), [Artix Encrypted Disk](https://github.com/cmpi66/artix-full-disk-encrypted-uefi), [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap) |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | [Ansible Bootstrap](https://github.com/cmpi66/ansible-bootstrap) |
 | ![rclone](https://img.shields.io/badge/-rclone-5E5E5E?style=flat-square) | [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
-| ![Syncthing](https://img.shields.io/badge/-Syncthing-2D2D2D?style=flat-square) | [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
+| ![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-5E5E5E?style=flat-square) | [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
 | ![GPG](https://img.shields.io/badge/-GPG-005EA2?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
 | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | [All Project Repos](https://github.com/cmpi66) |
 | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet), [Vuln Management Program](https://github.com/cmpi66/vuln-management-program-tenable) |
