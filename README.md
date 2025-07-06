@@ -5,6 +5,15 @@
 
 Security-focused practitioner with a background in IT infrastructure, Linux hardening, and detection engineering. This GitHub documents hands-on security projects, many of which started from trusted guides or community tutorials — then evolved through real implementation, testing, and debugging. Everything here reflects working systems I've built, broken, and refined in my own environment.
 
+---
+
+## ⭐ Featured Repos
+
+- [Red Canary Scenarios](https://github.com/cmpi66/rc-scenarios) – Public incident response scenarios completed independently, emphasizing clarity, triage speed, and real-world constraints.
+
+- [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet) – Detection engineering lab mapped to MITRE ATT&CK, featuring alert tuning, Sentinel queries, and real attacker traffic.
+
+- [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) – Real-world forensic response to cloud metadata failure, including log analysis and hardening improvements.
 
 ---
 
@@ -30,10 +39,11 @@ Security-focused practitioner with a background in IT infrastructure, Linux hard
 | ![GPG](https://img.shields.io/badge/-GPG-005EA2?style=flat-square) | [Gentoo GPG Boot](https://github.com/cmpi66/gentoo-gpg-encrypted-guide) |
 | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | [All Project Repos](https://github.com/cmpi66) |
 | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet), [Vuln Management Program](https://github.com/cmpi66/vuln-management-program-tenable) |
-| ![Incident Response](https://img.shields.io/badge/-Incident%20Response-5E5E5E?style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet), [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
+| ![Incident Response](https://img.shields.io/badge/-Incident%20Response-5E5E5E?style=flat-square) | [Red Canary Scenarios](https://github.com/cmpi66/rc-scenarios), [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet), [IDrive IR](https://github.com/cmpi66/idrive-storage-IR) |
+| ![Detection Engineering](https://img.shields.io/badge/-Detection%20Engineering-5E5E5E?style=flat-square) | [Red Canary Scenarios](https://github.com/cmpi66/rc-scenarios), [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet) |
+| ![Threat Modeling](https://img.shields.io/badge/-Threat%20Modeling-5E5E5E?style=flat-square) | [Red Canary Scenarios](https://github.com/cmpi66/rc-scenarios) |
+| ![Executive Communication](https://img.shields.io/badge/-Executive%20Communication-5E5E5E?style=flat-square) | [Red Canary Scenarios](https://github.com/cmpi66/rc-scenarios) |
 | ![NIST 800-53](https://img.shields.io/badge/-NIST%20800--53-2E8B57?style=flat-square) | [Azure SOC Honeynet](https://github.com/cmpi66/soc-azure-honeynet) |
-
----
 
 ## 🤳 Connect with Me
 
